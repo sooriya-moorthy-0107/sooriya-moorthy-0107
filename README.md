@@ -220,11 +220,11 @@ class SooriyaMoorthy:
 | Timeline | Organization / Event | Role | Core Contributions |
 | :---: | :--- | :--- | :--- |
 | **Summer 2026** | **Muthusoftlabs** | Software Engineering Intern | Engineered a custom Point-of-Sale (POS) system following enterprise standards to streamline retail transactions and inventory synchronization. |
-| **Ongoing** | **VIT Community Radio** | Vice Chairperson | Direct executive station operations, creative content strategy, and supervise student teams for university-wide transmission. |
+| **Ongoing** | **VIT Community Radio** | Advisory Member | Direct executive station operations, creative content strategy, and supervise student teams for university-wide transmission. |
 | **2026** | **graVITas '26, VIT** | Manager — Press & Media Committee | Managed press relations, official public releases, and media coverage for VIT's premier international technical festival. |
 | **2026** | **Riviera '26, VIT** | Coordinator — Documentation Committee | Oversaw official archival documentation, report workflows, and editorial records for Asia’s major cultural fest. |
 | **2025** | **graVITas '25, VIT** | Coordinator — Outreach & Broadcasting | Coordinated outreach logistics and live festival broadcasts across campus. |
-| **Founder** | **Ponnangai Enterprises** | Founder & Tech Lead | Architecting proprietary business solutions, ERP systems, and cloud infrastructure. |
+| **CTO** | **Ponnangai Enterprises** | Founder & Tech Lead | Architecting proprietary business solutions, ERP systems, and cloud infrastructure. |
 
 <br/>
 
