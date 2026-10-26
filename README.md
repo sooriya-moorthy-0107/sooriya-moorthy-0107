@@ -3,7 +3,7 @@
 <!-- ================================================================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sooriya%20Moorthy%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud%20%26%20DevOps&descSize=18&descAlignY=60" width="100%" alt="Sooriya Moorthy Banner"/>
+<img src="assets/header-banner.svg" width="100%" alt="Sooriya Moorthy Banner"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=760&lines=Hi+%F0%9F%91%8B+I'm+Sooriya+Moorthy;Software+Engineering+Student+%40+VIT+Vellore+%F0%9F%8E%93;Full-Stack+Developer+%26+Backend+Architect+%F0%9F%92%BB;Cloud%2C+Kubernetes+%26+DevOps+Practitioner+%E2%98%81%EF%B8%8F;Founder+%40+Ponnangai+Enterprises+%F0%9F%8F%A2;Turning+real-world+problems+into+shipped+code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=760&lines=Hi+%F0%9F%91%8B+I'm+Sooriya+Moorthy;Software+Engineering+Student+%40+VIT+Vellore+%F0%9F%8E%93;Full-Stack+Developer+%26+Backend+Architect+%F0%9F%92%BB;Cloud%2C+Kubernetes+%26+DevOps+Practitioner+%E2%98%81%EF%B8%8F;CTO+%40+Ponnangai+Enterprises+%F0%9F%8F%A2;Turning+real-world+problems+into+shipped+code+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -325,6 +325,6 @@ class SooriyaMoorthy:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave"/>
+<img src="assets/footer-banner.svg" width="100%" alt="Footer Wave"/>
 
 </div>
